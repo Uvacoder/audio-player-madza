@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/madzadev/audio-player.git"
   },
-  "homepage": "https://audioplayer.madza.dev/",
+  "homepage": "https://audio-player-madza-nine.vercel.app",
   "bugs": {
     "url": "https://github.com/madzadev/audio-player/issues"
   },
